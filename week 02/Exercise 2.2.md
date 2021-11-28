@@ -18,7 +18,7 @@ I chose this platform and template since it was one of the few cortex M7 boards 
 
 These come with a BSP (Board Support Package) which is a high level API on top of HAL APIs for the discovery board features.
 
-![](DISCO H747I LCD Demo Block Diagram.png)
+![DISCO H747I LCD Demo Block Diagram](DISCO%20H747I%20LCD%20Demo%20Block%20Diagram.png)
 
 
 Notes:
